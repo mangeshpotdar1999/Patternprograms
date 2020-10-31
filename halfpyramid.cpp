@@ -1,5 +1,5 @@
 //program for half pyramid.
-// output
+
 #include<iostream>
 
 using namespace std;
